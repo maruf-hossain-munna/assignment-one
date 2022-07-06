@@ -163,6 +163,27 @@ a{
 
 }
 
+.they-need{
+    display: flex;
+        margin: 120px 130px;
+    
+
+}
+.img-need{
+    width: 60%;
+    margin-right: 10%;
+}
+.img-need img{
+    width: 100%;
+}
+
+.survive{
+
+}
+.survive p{
+    margin-bottom: 30px;
+}
+
 
 .donate{
     margin: 100px 350px;
