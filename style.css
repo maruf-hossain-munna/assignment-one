@@ -170,15 +170,17 @@ a{
 
 }
 .img-need{
-    width: 50%;
-    margin-right: 10%;
+    width: 55%;
+    
 }
 .img-need img{
     width: 100%;
 }
 
 .survive{
-    width: 40%;
+    width: 35%;
+    padding-right: 50px;
+    margin-left: 10%;
 
 }
 .survive p{
